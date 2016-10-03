@@ -1,0 +1,341 @@
+{
+  "herbs": [
+   {
+        "commonName": "Yarrow",
+        "botanicalName": "Achillea millefolium",
+        "properties": "anti-hemorrhage",
+        "activePart": "leaves",
+        "geography": ["Europe", "Asia", "North America"],
+        "medicinalUse": ["allergy", "wound healing", "rashes", "indigestion", "fever", "haemmroids"]
+    },
+    {
+    "commonName":"Anise Hyssop",
+        "botanicalName": "Agastache foeniculum",
+        "properties": "antibacterial",
+        "activePart": ["flowers", "leaves"],
+        "geography": "North America",
+        "medicinalUse": ["cough", "cold", "hangover", "fever", "antibacterial", "athlete’s foot"]
+    },
+    {
+        "commonName":"Garlic",
+        "botanicalName": "Allium sativum",
+        "properties": ["diaphoretic", "diuretic", "expectorant", "stimulant"],
+        "activePart": "bulb",
+        "geography": ["Asia", "Europe", "Africa"],
+        "medicinalUse": ["heart disease", "cholesterol", "high-blood pressure", "healthy immune system"]
+    },
+    {
+      "commonName":"Chives",
+        "botanicalName": "Allium schoenoprasum",
+        "properties": "nutritional",
+        "activePart": ["bulb", "leaves"],
+        "geography": ["Europe", "North America"],
+        "medicinalUse": ["digestive issues", "bone health", "high-blood pressure", "healthy immune system"]
+    },
+    {
+        "commonName":"Lemon Verbena",
+        "botanicalName": "Aloysia citrodora",
+        "properties": ["nervine", "diaphoretic"],
+        "activePart": "leaves",
+        "geography": "South America",
+        "medicinalUse": ["stomach issues", "abdominal cramping", "muscle health", "healthy immune system", "stress", "nervous system health", "endocrine health", "thyroid health"]
+    },
+    {
+        "commonName":"Marsh Mallow",
+        "botanicalName": "Althaea officinalis",
+        "properties": ["demulcent", "emollient"],
+        "activePart": ["leaves", "roots"],
+        "geography": "Africa",
+        "medicinalUse": ["cough", "bronchitis", "inflammation", "sore throat", "muscle pain"]
+    },
+    {
+      "commonName":"Dill",
+        "botanicalName": "Anethum graveolens",
+        "properties": "anti-inflammatory",
+        "activePart": ["seed", "flower", "stem"],
+        "geography": "Western Asia",
+        "medicinalUse": ["stress", "insomnia", "hiccoughs", "diarrhea", "menstrual cramping", "arthritis", "respiratory disorders"]
+    },
+    {
+        "commonName":"Angelica",
+        "botanicalName": "Angelica archangelica",
+        "properties": ["carminative", "stimulant", "diaphoretic", "tonic", "expectorant"],
+        "activePart": ["leaves", "stalk", "root", "fruit"],
+        "geography": ["Europe", "Western Asia"],
+        "medicinalUse": ["anemia", "coughs", "colds"]
+    },
+    {
+      "commonName":"Chervil",
+        "botanicalName": "Anthriscus cerefolium",
+        "properties": "nutritional",
+        "activePart": "leaves",
+        "geography": "Eastern Europe",
+        "medicinalUse": ["exhaustion", "healthy blood production", "healthy nerve function", "healthy muscle function"]
+    },
+    {
+      "commonName":"Celery",
+        "botanicalName": "Apium graveolens",
+        "properties": ["antiseptic", "nutritional"],
+        "activePart": "leaves",
+        "geography": "Europe",
+        "medicinalUse": ["stress", "cholesterol", "kidney problems", "cystitis"]
+    },
+    {
+      "commonName":"Horseradish",
+        "botanicalName": "Armoracia rusticate",
+        "properties": ["anti-biotic", "stimulant", "nutritional"],
+        "activePart": "root",
+        "geography": ["Europe", "Western Asia"],
+        "medicinalUse": ["circulation", "coughs", "sinus congestion", "stiff muscles"]
+    },
+    {
+      "commonName":"Wormwood",
+        "botanicalName": "Artemisia absinthium",
+        "properties": ["intoxicating", "hallucinogenic"],
+        "activePart": ["flower", "leaves", "stem"],
+        "geography": ["Europe", "Africa", "North America"],
+        "medicinalUse": " "
+    },
+    {   "commonName":"Tarragon",
+        "botanicalName": "Artemisia dracunculus",
+        "properties": "aromatic",
+        "activePart": "leaves",
+        "geography": ["Europe", "Western Asia", "North America"],
+        "medicinalUse": ["healthy blood production", "bone health", "eye health"]
+    },
+    {
+      "commonName":"Mugwort",
+        "botanicalName": "Artemisia vulgaris",
+        "properties": "anti-inflammatory",
+        "activePart": ["seed", "flower", "stem"],
+        "geography": ["Europe", "Asia", "North America", "South America"],
+        "medicinalUse": ["digestion", "liver function", "relax the nervous system", "sleep", "immune system health"]
+    },
+    {
+        "commonName":"Marigold",
+        "botanicalName": "Calendula officinalis",
+        "properties": "antispetic",
+        "activePart": "flower",
+        "geography": ["Southern Europe", "Africa", "North America", "South America"],
+        "medicinalUse": ["skin conditions", "warts", "skin abrasions", "eye infections", "insect bites and stings"]
+    },
+    {
+      "commonName":"Chamomile",
+        "botanicalName": "Chamaemelum nobile",
+        "properties": "nervine",
+        "activePart": "flower",
+        "geography": "Europe",
+        "medicinalUse": ["stress", "relax the nervous system", "insomnia", "digestion", "eye strain", "asthma", "colic", "fever", "nausea", "skin diseases"]
+    },
+    {
+      "commonName":"Lambs Quarters",
+        "botanicalName": "Chenopodium album",
+        "properties": ["nutritional", "antioxidant"],
+        "activePart": ["leaves", "stem"],
+        "geography": ["Europe", "North America"],
+        "medicinalUse": ["burns", "sunburns", "arthritis"]
+    },
+    {
+      "commonName":"Chicory",
+        "botanicalName": "Cichorium intybus",
+        "properties": "probiotic",
+        "activePart": ["leaves", "root"],
+        "geography": ["Europe", "North America"],
+        "medicinalUse": ["indigestion", "heartburn", "cholesterol", "osteoarthritis", "sore muscles"]
+    },
+    {
+      "commonName":"Coriander",
+        "botanicalName": "Coriandrum sativum",
+        "properties": "nutritional",
+        "activePart": ["leaves", "seed", "stalk", "root"],
+        "geography": ["Europe", "North Africa", "Southwest Asia"],
+        "medicinalUse": ["eczema", "swelling", "kidney malfunction", "nausea", "healthy bones", "conjunctivitis prevention", "lower blood pressure", "dyspepsia"]
+    },
+    {
+      "commonName":"Lemongrass",
+        "botanicalName": "Cymbopogon citratus",
+        "properties": ["nutritional", "antioxidant", "aromatic"],
+        "activePart": "stem",
+        "geography": "Asia",
+        "medicinalUse": ["cholesterol", "sleep", "healthy immune system", "fever", "infections", "rheumatism", "edema", "diabetes", "cancer", "anxiety", "nervous system health"]
+    },
+    {
+      "commonName":"Echinacea",
+        "botanicalName": "Echinacea pallida",
+        "properties": "antiseptic",
+        "activePart": ["root", "rhizome"],
+        "geography": "North America",
+        "medicinalUse": ["colds", "sore throat", "fever", "flu", "urinary infections", "boils", "sores"]
+    },
+    {
+      "commonName":"Meadowsweet",
+        "botanicalName": "Filipendula ulmaria",
+        "properties": ["aromatic", "astringent", "diuretic"],
+        "activePart": ["leaves", "flower"],
+        "geography": ["Europe", "Western Asia"],
+        "medicinalUse": ["pain relief", "fever", "rheumatism", "upset stomach"]
+    },
+    {
+      "commonName":"Fennel",
+        "botanicalName": "Foeniculum vulgare",
+        "properties": "aromatic",
+        "activePart": ["seed", "flower", "stem"],
+        "geography": ["Southern Europe", "North Africa"],
+        "medicinalUse": ["indigestion", "constipation", "flatulence", "breastmilk flow"]
+    },
+    { "commonName":"Ginko",
+        "botanicalName": "Ginko biloba",
+        "properties": ["stimulant", "antioxidant", "antibacterial"],
+        "activePart": "leaves",
+        "geography": ["Asia"],
+        "medicinalUse": ["circulation", "varicose veins", "memory loss", "depression", "cough", "asthma"]
+    },
+    { "commonName":"Hops",
+        "botanicalName": "Humulus lupulus",
+        "properties": ["nervine", "antibacterial", "nervine", "diuretic"],
+        "activePart": ["leaves", "shoots", "rhizome"],
+        "geography": "Europe",
+        "medicinalUse": ["insomnia", "exhaustion", "pain relief"]
+    },
+    { "commonName":"St. John’s Wort",
+        "botanicalName": "Hypericum perforatum",
+        "properties": ["aromatic", "astringent", "expectorant", "nervine"],
+        "activePart": ["leaves", "flower", "stem"],
+        "geography": "Europe",
+        "medicinalUse": ["anxiety", "irritability", "depression", "skin sores", "pulmonary issues", "bladder conditions", "diarrhea", "hemorrhages", "jaundice"]
+    },
+    { "commonName":"Bay",
+        "botanicalName": "Laurus nobilis",
+        "properties": "stimulant",
+        "activePart": "leaves",
+        "geography": "Southern Europe",
+        "medicinalUse": ["sprains", "digestive issues", "flatulence", "headache"]
+    },
+    { "commonName":"Lavender",
+        "botanicalName": "Lavandula",
+        "properties": ["nervine", "aromatic"],
+        "activePart": ["flower", "leaves"],
+        "geography": ["Southern Europe", "North Africa"],
+        "medicinalUse": ["headache", "anxiety", "stress", "sleep", "sunburn"]
+    },
+    { "commonName":"Lovage",
+        "botanicalName": "Levisticum officinale",
+        "properties": ["aromatic","stimulant","carminative"],
+        "activePart": ["seed", "leaves","stalk"],
+        "geography": "Europe",
+        "medicinalUse": ["rheumatism", "sore throat", "indigestion", "menstrual pain","cystitis","gout","mouth ulcers","tonsillitis"]
+    },
+    { "commonName":"Honeysuckle",
+        "botanicalName": "Lonicera",
+        "properties": ["anti-inflammatory", "aromatic"],
+        "activePart": "flower",
+        "geography": ["Asia","Europe", "North America"],
+        "medicinalUse": ["headache", "immune system health", "stress", "exhaustion"]
+    },
+    { "commonName":"Lemon Balm",
+        "botanicalName": "Melissa officinalis",
+        "properties": ["nervine","anti-inflammatory", "aromatic"],
+        "activePart": "leaves",
+        "geography": ["Europe", "North Africa","Central Asia"],
+        "medicinalUse": ["indigestion", "nausea", "exhaustion", "depression", "insect bites"]
+    },
+    { "commonName":"Mint",
+        "botanicalName": "Menthe",
+        "properties": ["astringent", "stimulant","carminative","antispasmodic"],
+        "activePart": "leaves",
+        "geography": ["Europe", "Africa","Asia","Australia","North America"],
+        "medicinalUse": ["indigestion", "flatulence", "chest pain", "mucus build-up"]
+    },
+    { "commonName":"Basil",
+        "botanicalName": "Ocimum basilicum",
+        "properties": ["anti-inflammatory", "antibacterial","nutritional"],
+        "activePart": ["leaves"],
+        "geography": ["Southeast Asia", "Pacific Islands","Central Asia"],
+        "medicinalUse": " "
+    },
+    { "commonName":"Oregano",
+        "botanicalName": "Origanum vulgare",
+        "properties": ["anti-inflammatory","disinfectant","preservative"],
+        "activePart": "leaves",
+        "geography": ["Southern Europe", "North Africa"],
+        "medicinalUse": ["pain", "respiratory infections", "gastrointestinal disorders", "acne", "dandruff"]
+    },
+    { "commonName":"Ginseng",
+        "botanicalName": "Panax ginseng",
+        "properties": "stimulant",
+        "activePart": "root",
+        "geography": "Asia",
+        "medicinalUse": ["exhaustion", "age-related fatigue", "impotence", "chronic fatigue", "flu","diabetes","Alzheimer's"]
+    },
+    { "commonName":"Poppy",
+        "botanicalName": "Palaver rhoeas",
+        "properties": ["nervine", "sedative"],
+        "activePart": "seed",
+        "geography": ["Europe", "Asia"],
+        "medicinalUse": ["anxiety", "stress", "sleep", "sunburn"]
+    },
+    { "commonName":"Parsley",
+        "botanicalName": "Petroselinum crispum",
+        "properties": ["nutritional", "aromatic"],
+        "activePart": ["leaves", "stems"],
+        "geography": ["Southern Europe", "North Africa"],
+        "medicinalUse": ["skin conditions", "anemia"]
+    },
+    { "commonName":"Rose",
+        "botanicalName": "Rosa",
+        "properties": ["astringent", "aromatic","nutritional","antibacterial","anti-inflammatory"],
+        "activePart": ["flower","fruit"],
+        "geography": ["Europe", "Africa","Central Asia"],
+        "medicinalUse": ["skin conditions", "menstrual pain", "high blood pressure", "melancholy"]
+    },
+    { "commonName":"Rosemary",
+        "botanicalName": "Rosmarinus officinalis",
+        "properties": ["stimulant", "aromatic"],
+        "activePart": ["flower", "leaves"],
+        "geography": ["Southern Europe", "North Africa"],
+        "medicinalUse": ["headache", "fatigue", "joint-pain", "memory", "melancholy"]
+    },
+    { "commonName":"Sage",
+        "botanicalName": "Salvia officinalis",
+        "properties": ["astringent", "aromatic","diuretic"],
+        "activePart": "leaves",
+        "geography": ["Southern Europe","Eastern Europe","Central Asia"],
+        "medicinalUse": ["digestion", "menopause", "sore throat", "tonsillitis", "dandruff"]
+    },
+    { "commonName":"Elder",
+        "botanicalName": "Sambucus nigra",
+        "properties": ["puragative", "emollient","nutritional"],
+        "activePart": ["flower", "fruit","bark","leaves"],
+        "geography": "Europe",
+        "medicinalUse": ["cold prevention", "mouth ulcers", "sore throat", "tonsillitis", "cold","flu"]
+    },
+    { "commonName":"Sassafras",
+        "botanicalName": "Sassafras albidum",
+        "properties": ["aromatic", "stimulant","diaphoretic"],
+        "activePart": ["leaves", "root","bark"],
+        "geography": "North America",
+        "medicinalUse": ["digestion", "blood purification","skin diseases"]
+    },
+    { "commonName":"Comfrey",
+        "botanicalName": "Symphytum officinale",
+        "properties": ["demulcent", "astringent","expectorant"],
+        "activePart": ["root", "leaves"],
+        "geography": ["Europe", "Central Asia", "Northern Asia"],
+        "medicinalUse": ["broken bones", "wound healing", "intestinal issues", "sprains", "bruises","swelling"]
+    },
+    { "commonName":"Dandelion",
+        "botanicalName": "Taraxacum",
+        "properties": ["nutritional", "antioxidant","diuretic","laxative"],
+        "activePart": ["flower", "leaves","root"],
+        "geography": ["Southern Europe", "North America","Central Asia","Northern Asia"],
+        "medicinalUse": ["cough", "high blood pressure", "osteoarthritis", "acne", "psoriasis","liver stimulant"]
+    },
+    { "commonName":"Valerian",
+        "botanicalName": "Valeriana officinalis",
+        "properties": ["nervine", "stimulant","carminative","antispasmodic"],
+        "activePart": "root",
+        "geography": "Europe",
+        "medicinalUse": ["sedative", "insomnia", "cramping", "cold", "fever","wheezing"]
+    }
+]
+}
